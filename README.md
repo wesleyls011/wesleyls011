@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="<iframe src="https://giphy.com/embed/Ifm1CfPNDDQAFWOjJu" width="480" height="334" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/programacao-programao-methoduscp-Ifm1CfPNDDQAFWOjJu">via GIPHY</a></p>"  />
+<img src="https://giphy.com/embed/Ifm1CfPNDDQAFWOjJu" width="480" height="334" style="" frameBorder="0" class="giphy-embed" allowFullScreen><a href="https://giphy.com/gifs/programacao-programao-methoduscp-Ifm1CfPNDDQAFWOjJu"> />
 
 ###
 
