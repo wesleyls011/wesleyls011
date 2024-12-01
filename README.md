@@ -11,7 +11,8 @@
 
 ###
 
-<img src="https://giphy.com/embed/Ifm1CfPNDDQAFWOjJu" width="480" height="334" style="" frameBorder="0" class="giphy-embed" allowFullScreen><a href="https://giphy.com/gifs/programacao-programao-methoduscp-Ifm1CfPNDDQAFWOjJu">
+<img src="https://media.giphy.com/media/Ifm1CfPNDDQAFWOjJu/giphy.gif" width="480" height="334" style="border: 0;" alt="GIF de programação">
+
 
 ###
 
