@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://media.licdn.com/dms/image/v2/D5603AQHj5JWUew2ecQ/profile-displayphoto-shrink_800_800/B56ZOCpG_bGkAg-/0/1733063636606?e=1738800000&v=beta&t=5_VUQ-8tVQgTB1ILwpZ_vZX91Qmwr41GXCV63Sr87vA](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1iNDZteTI5aDYyNHRlcXR1dzEyYTY2bWk5NzBzbW53cGQ1enFtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ifm1CfPNDDQAFWOjJu/giphy.webp)](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1iNDZteTI5aDYyNHRlcXR1dzEyYTY2bWk5NzBzbW53cGQ1enFtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ifm1CfPNDDQAFWOjJu/giphy.gif)"  />
+<img align="right" height="150" src="<iframe src="https://giphy.com/embed/Ifm1CfPNDDQAFWOjJu" width="480" height="334" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/programacao-programao-methoduscp-Ifm1CfPNDDQAFWOjJu">via GIPHY</a></p>"  />
 
 ###
 
