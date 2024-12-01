@@ -11,8 +11,10 @@
 
 ###
 
-<img src="https://media.giphy.com/media/Ifm1CfPNDDQAFWOjJu/giphy.gif" width="480" height="334" style="border: 0;" alt="GIF de programação">
-
+<!-- Centralizando o GIF com Flexbox -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
+  <img src="https://media.giphy.com/media/Ifm1CfPNDDQAFWOjJu/giphy.gif" width="300" height="200" style="border: 0;" alt="GIF de programação">
+</div>
 
 ###
 
