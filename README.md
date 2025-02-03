@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">Sou estudante de Sistemas de Informação com uma grande paixão por desenvolvimento back-end. Tenho experiência em tecnologias como Java, Spring, Node.js, Python e MySQL. O que me motiva é o desafio de resolver problemas, criar soluções funcionais e práticas que simplifiquem a vida das pessoas.<br><br>Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. Com dedicação e curiosidade, trabalho para evoluir constantemente como desenvolvedor.</p>
+<p align="left">Sou estudante de Sistemas de Informação com uma grande paixão por desenvolvimento back-end. Tenho experiência em tecnologias como Java, Spring, Node.js, JavaScript, TypeScript e MySQL. O que me motiva é o desafio de resolver problemas, criar soluções funcionais e práticas que simplifiquem a vida das pessoas.<br><br>Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. Com dedicação e curiosidade, trabalho para evoluir constantemente como desenvolvedor.</p>
 
 ###
 
